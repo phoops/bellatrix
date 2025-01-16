@@ -1,0 +1,13 @@
+run:
+  skip-dirs:
+    - internal/infrastructure/gateways/goa/design
+    - internal/infrastructure/gateways/goa/gen
+linters:
+  enable:
+    - errcheck
+    - gosimple
+    - govet
+    - ineffassign
+    - staticcheck
+    - typecheck
+    - unused

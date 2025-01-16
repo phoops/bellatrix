@@ -1,0 +1,13 @@
+volumes:
+  elastic_data:
+services:
+  bellatrix:
+    build:
+      context: .
+      dockerfile: Dev.dockerfile
+    env_file: ./.env.example
+    environment:
+      - SSH_AUTH_SOCK=/ssh-agent
+    volumes:
+      - "$SSH_AUTH_SOCK:/ssh-agent"
+      - ".:/app"

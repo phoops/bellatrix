@@ -1,0 +1,58 @@
+{
+  "client_options": {
+    "client_url": "https://api.staging.wolfsburg.digital/context",
+    "additional_headers": {
+      "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJic2xPbVgyejFoV0lZNUFZemFkSWVneHpnZHhPV2lndHdRc2tkMlZHVDdZIn0.eyJleHAiOjE2MTk1MzQ2NDcsImlhdCI6MTYxNDM1MDY0NywianRpIjoiYjc0M2U5MmMtYzRkYy00NzE2LWEzNWQtNmU1YzBkOGI1NDUyIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnN0YWdpbmcud29sZnNidXJnLmRpZ2l0YWwvYXV0aC9yZWFsbXMvZGVmYXVsdCIsInN1YiI6IjVmZTFkYTY5LTE3ZGMtNDBjZC1iYzQwLTM0ODYzYzkwNDY2OSIsInR5cCI6IkJlYXJlciIsImF6cCI6ImFwaSIsInNlc3Npb25fc3RhdGUiOiIyN2YyOWM1Zi1hODY4LTQ3N2UtOGZlMi05YmQzOGY1NDE2MWYiLCJhY3IiOiIxIiwic2NvcGUiOiJlbnRpdHk6cmVhZCBzdWJzY3JpcHRpb246ZGVsZXRlIHN1YnNjcmlwdGlvbjpyZWFkIHN1YnNjcmlwdGlvbjp3cml0ZSBlbnRpdHk6d3JpdGUgc3Vic2NyaXB0aW9uOmNyZWF0ZSBwcm9maWxlIGVtYWlsIHRlbmFudHMiLCJ0ZW5hbnRzIjpbeyJuYW1lIjoiV29sZnNidXJnIiwiZ3JvdXBzIjpbeyJwYXJlbnQiOiJXb2xmc2J1cmciLCJyZWFsbVJvbGVzIjpbXSwibmFtZSI6IkZhdWx0UmVwb3J0aW5nIiwiaXNfc2VydmljZXBhdGgiOnRydWV9LHsicGFyZW50IjoiV29sZnNidXJnIiwicmVhbG1Sb2xlcyI6W10sIm5hbWUiOiJQYXJraW5nTWFuYWdlbWVudCIsImlzX3NlcnZpY2VwYXRoIjp0cnVlfSx7InBhcmVudCI6IldvbGZzYnVyZyIsInJlYWxtUm9sZXMiOltdLCJuYW1lIjoicGhvb3BzIiwiaXNfc2VydmljZXBhdGgiOmZhbHNlLCJjbGllbnRSb2xlcyI6WyJlbnRpdHk6Y3JlYXRlIiwic3Vic2NyaXB0aW9uOmNyZWF0ZSIsInN1YnNjcmlwdGlvbjpkZWxldGUiLCJlbnRpdHk6cmVhZCIsInN1YnNjcmlwdGlvbjpyZWFkIiwiZW50aXR5OndyaXRlIiwic3Vic2NyaXB0aW9uOndyaXRlIl19LHsicGFyZW50IjoiV29sZnNidXJnIiwicmVhbG1Sb2xlcyI6W10sIm5hbWUiOiJQT0kiLCJpc19zZXJ2aWNlcGF0aCI6dHJ1ZX0seyJwYXJlbnQiOiJXb2xmc2J1cmciLCJyZWFsbVJvbGVzIjpbXSwibmFtZSI6Ildhc3RlTUdUIiwiaXNfc2VydmljZXBhdGgiOnRydWV9LHsicGFyZW50IjoiV29sZnNidXJnIiwicmVhbG1Sb2xlcyI6W10sIm5hbWUiOiJXZWF0aGVyc3RhdGlvbiIsImlzX3NlcnZpY2VwYXRoIjp0cnVlfV0sImlkIjoiYmFmOGUwZGEtYjk1NS00ZjA0LTk2MzctMjgyZmM0YjY1ZjRmIn1dLCJmaXdhcmUtc2VydmljZXMiOnsiV29sZnNidXJnIjpbIi9GYXVsdFJlcG9ydGluZyIsIi9QYXJraW5nTWFuYWdlbWVudCIsIi9QT0kiLCIvV2FzdGVNR1QiLCIvV2VhdGhlcnN0YXRpb24iXX0sImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJuYW1lIjoiV29iYXBwIFBob29wcyIsInByZWZlcnJlZF91c2VybmFtZSI6InBob29wcyIsImdpdmVuX25hbWUiOiJXb2JhcHAiLCJmYW1pbHlfbmFtZSI6IlBob29wcyIsImVtYWlsIjoid29iYXBwQHBob29wcy5pdCJ9.S-Aw-kBQPWF6ieFcGcR8SjFR8knw17NKSoD5Yyj32-3N8Fp4hu4Mkr1X_EXN5liD5cR6VMDunITLUL3M2ZnZFNWSYeIaiSiPov05Gie7X5c2uef-4OtMvsM1wGrFdFqGMtpTNyZ4welk4ihdnQaa9AnLVkbXcxfRMhEW6HjFJrrKxvKq6VDEOpBnBDLT-ryLR2zbY7s7jIPthsx0mzhg9w6a4qQZ39XANR9jovUd7NsMOaeKnDHQ05393mUqjuvsAiE1IGd-Bj8LSy30fuqEmtk7Lv79ghYsWzoUu0VlDZL17TG9crVe0LPJNai5WY2Yl9OMDgcUIQPC18XwHMF00g"
+    }
+  },
+  "subscriptions_state": [
+    {
+     "service_path": "/WasteMGT",
+     "fiware_service": "Wolfsburg",
+     "subscriptions": [
+       {
+         "description": "WasteCollection subscription for staging environment",
+         "subject": {
+           "entities": [
+             {
+               "idPattern": ".*",
+               "type": "WasteCollection"
+             }
+           ]
+         },
+         "notification": {
+           "httpCustom": {
+             "url": "https://staging.wolfsburg.digital/gw/orion/bf86711c-fa50-4014-9ef8-341b9896d350/v2/op/notify",
+             "headers": {
+               "fiware-service": "Wolfsburg",
+               "fiware-servicepath": "/WasteMGTStaging",
+               "Authorization": "Basic YmV0ZWxnLWRldjpwYXNzMTIz"
+             }
+           }
+         }
+       },
+       {
+         "description": "WasteContainer subscription for staging environment",
+         "subject": {
+           "entities": [
+             {
+               "idPattern": ".*",
+               "type": "WasteContainer"
+             }
+           ]
+         },
+         "notification": {
+           "httpCustom": {
+             "url": "https://staging.wolfsburg.digital/gw/orion/bf86711c-fa50-4014-9ef8-341b9896d350/v2/op/notify",
+             "headers": {
+                "fiware-service": "Wolfsburg",
+               "fiware-servicepath": "/WasteMGTStaging",
+               "Authorization": "Basic YmV0ZWxnLWRldjpwYXNzMTIz"
+             }
+           }
+         }
+       }
+     ]
+    }
+  ]
+}
